@@ -7,3 +7,4 @@ while s <= no:
  s+=1
 else:
  print(total)
+print('Thankyou'
